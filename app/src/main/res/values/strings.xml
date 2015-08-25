@@ -3,4 +3,21 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+
+    <string name="step1">다른 사람과 대화할 때</string>
+    <string name="step2">기분이나 감정을 사람들에게</string>
+    <string name="step3">어렵고 힘든 상황에 있을 때 사람들에게 하는 행동은</string>
+    <string name="step4">사람들과 갈등이 생기면</string>
+    <string name="step5">대화할 때</string>
+    <string name="step6">평소 사람들의 말이나 의견에</string>
+    <string name="step7">의사결정이</string>
+    <string name="step8">대화할 때 얼굴표정, 목소리 손짓 등에서</string>
+    <string name="step9">평소 사람들에게 감사나 칭찬의 말과 행동을</string>
+    <string name="step10">사람들에게 자신의 생각과 의견을</string>
+    <string name="step11">약속이나 기한이 정해지면</string>
+    <string name="step12">만약 상대방에게 실수를 했다면</string>
+    <string name="step13">모임에 나가면</string>
+    <string name="step14">어떤 일을 할 때 다소 불완전하거나 위험성이 있다면</string>
+    <string name="step15">평소 말이나 행동을 하는데 있어</string>
 </resources>
