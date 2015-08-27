@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">apppeoplegram</string>
+    <string name="app_name">피플그램</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">123123123</string>
     <string name="action_settings">Settings</string>
 
 
@@ -20,4 +20,6 @@
     <string name="step13">모임에 나가면</string>
     <string name="step14">어떤 일을 할 때 다소 불완전하거나 위험성이 있다면</string>
     <string name="step15">평소 말이나 행동을 하는데 있어</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_logo">LogoActivity</string>
 </resources>
