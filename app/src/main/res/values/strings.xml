@@ -5,6 +5,8 @@
     <string name="action_settings">Settings</string>
 
 
+    <string name="my_question_title"></string>
+
     <string name="step1">다른 사람과 대화할 때</string>
     <string name="step2">기분이나 감정을 사람들에게</string>
     <string name="step3">어렵고 힘든 상황에 있을 때 사람들에게 하는 행동은</string>
@@ -22,4 +24,5 @@
     <string name="step15">평소 말이나 행동을 하는데 있어</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_logo">LogoActivity</string>
+    <string name="title_activity_my_question_">MyQuestion_Activity</string>
 </resources>
