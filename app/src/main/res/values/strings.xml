@@ -25,4 +25,5 @@
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_logo">LogoActivity</string>
     <string name="title_activity_my_question_">MyQuestion_Activity</string>
+    <string name="title_activity_member_join_">MemberJoin_Activity</string>
 </resources>
