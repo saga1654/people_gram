@@ -1,1 +1,1 @@
-include ':app', ':android-async-http-1.4.8'
+include ':android-async-http-1.4.8'
