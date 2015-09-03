@@ -10,6 +10,8 @@ import android.content.DialogInterface;
 import android.app.AlertDialog;
 import android.view.KeyEvent;
 
+import com.loopj.android.http.*;
+
 public class LogoActivity extends AppCompatActivity {
     private Intent intent;
 
