@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/android-async-http-1.4.8/android-async-http-1.4.8.iml" filepath="$PROJECT_DIR$/android-async-http-1.4.8/android-async-http-1.4.8.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/people_gram.iml" filepath="$PROJECT_DIR$/people_gram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/people_gram.iml" filepath="$PROJECT_DIR$/people_gram.iml" />
     </modules>
   </component>
 </project>

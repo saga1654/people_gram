@@ -25,6 +25,11 @@
             android:name=".MyQuestion_Activity"
             android:label="@string/title_activity_my_question_" >
         </activity>
+        <activity
+            android:name=".MemberJoin_Activity"
+            android:label="@string/title_activity_member_join_" 
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
     </application>
 
 </manifest>
